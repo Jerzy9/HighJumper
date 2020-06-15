@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>brickImg.png</file>
+        <file>GameplayBg.png</file>
+        <file>Left.png</file>
+        <file>playerImg.png</file>
+        <file>Right.png</file>
+        <file>Up.png</file>
+    </qresource>
+</RCC>
